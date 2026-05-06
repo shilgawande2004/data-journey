@@ -1,0 +1,35 @@
+# 📊 Madhav E-Commerce Data Analysis (Power BI)
+
+## 🔹 Overview
+Interactive Power BI dashboard analyzing e-commerce sales data to uncover insights on revenue, customer behavior, and product performance.
+
+## 🔹 Objectives
+- Analyze sales and profit trends  
+- Identify top products and categories  
+- Understand regional performance  
+- Generate business insights  
+
+## 🔹 Tools
+- Power BI  
+- Excel / CSV  
+- DAX  
+
+## 🔹 Key Features
+- Sales & Profit Dashboard  
+- Category & Product Analysis  
+- Region-wise Insights  
+- Time-based Trends  
+
+## 🔹 Project Structure
+📁 madhav-ecommerce-dashboard  
+┣ 📊 dashboard.pbix  
+┣ 📄 dataset.csv  
+┗ 📷 dashboard.png  
+
+## 🔹 Key Insights
+- Top categories drive majority revenue  
+- Sales vary across regions  
+- Seasonal trends impact performance  
+
+## 🔹 Author
+Shil Gawande  
